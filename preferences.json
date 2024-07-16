@@ -6,6 +6,6 @@
   "dontCachePasswords" : false,
   "denyTempScriptCreation" : false,
   "encryptAllVaultData" : false,
-  "workspaceLock" : null,
+  "workspaceLock" : "d1QPUh6lMm5iMwAlkj6WjTXZwMucGsalsonpjZZay4L0",
   "apiKey" : "d2f2a3e0-3c53-4e9f-b529-bb838d3ff625"
 }
