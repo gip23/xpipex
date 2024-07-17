@@ -14,11 +14,11 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / hdts**
 
+- [**hdts-dev**](stores/6f493eac-8399-4c31-8ba5-f15b9254c95d)
 - [**hdts-prod**](stores/2e3ebf94-a29d-4b55-9c7c-978416d96f23)
   - [**Shell Environments**](stores/4d59b269-1678-3add-8821-d1d30062a3e3)
     - [**bash**](stores/0fa37b7c-4d4d-4a4a-bd1f-7395e06c1212)
     - [**dash**](stores/ed98a04f-7574-4f58-9347-7bec6d3364dc)
-- [**hdts-prod (Copy)**](stores/6f493eac-8399-4c31-8ba5-f15b9254c95d)
 
 
 ## Secret encryption
