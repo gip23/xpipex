@@ -1,0 +1,8 @@
+{
+  "uuid" : "2e3ebf94-a29d-4b55-9c7c-978416d96f23",
+  "name" : "hdts-prod",
+  "categoryUuid" : "c3098abb-1659-4f18-b972-5193ede72d18",
+  "configuration" : {
+    "deletable" : true
+  }
+}
