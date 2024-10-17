@@ -1,0 +1,8 @@
+{
+  "uuid" : "84b79052-ac0e-46ef-93a0-dcbd8d0356ab",
+  "name" : "LXD",
+  "categoryUuid" : "c3098abb-1659-4f18-b972-5193ede72d18",
+  "configuration" : {
+    "deletable" : true
+  }
+}
