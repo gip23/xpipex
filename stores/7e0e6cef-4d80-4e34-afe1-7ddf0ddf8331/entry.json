@@ -1,0 +1,8 @@
+{
+  "uuid" : "7e0e6cef-4d80-4e34-afe1-7ddf0ddf8331",
+  "name" : "aura-wp-website",
+  "categoryUuid" : "c3098abb-1659-4f18-b972-5193ede72d18",
+  "configuration" : {
+    "deletable" : true
+  }
+}
