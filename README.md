@@ -14,6 +14,8 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / hdts**
 
+- [**hdts-dev**](stores/6f493eac-8399-4c31-8ba5-f15b9254c95d)
+- [**hdts-dev2**](stores/013a3606-8c06-4ee5-92b5-923d699c0975)
 - [**hdts-prod**](stores/2e3ebf94-a29d-4b55-9c7c-978416d96f23)
   - [**Shell Environments**](stores/4d59b269-1678-3add-8821-d1d30062a3e3)
     - [**bash**](stores/0fa37b7c-4d4d-4a4a-bd1f-7395e06c1212)

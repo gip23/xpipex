@@ -1,0 +1,8 @@
+{
+  "uuid" : "013a3606-8c06-4ee5-92b5-923d699c0975",
+  "name" : "hdts-dev2",
+  "categoryUuid" : "c3098abb-1659-4f18-b972-5193ede72d18",
+  "configuration" : {
+    "deletable" : true
+  }
+}
