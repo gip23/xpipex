@@ -15,6 +15,7 @@ You can sync with this repository in all XPipe application instances the same wa
 **All connections / hdts**
 
 - [**aura-wp-website**](stores/7e0e6cef-4d80-4e34-afe1-7ddf0ddf8331)
+  - [**LXD**](stores/84b79052-ac0e-46ef-93a0-dcbd8d0356ab)
   - [**Shell Environments**](stores/bc7521ac-f6cd-3c87-a4fe-f25359b88b06)
     - [**bash**](stores/0b8dd198-a476-49b0-9644-5d3a0fb6f596)
     - [**dash**](stores/cfce011f-f206-4201-bf9d-a756232f14ff)
