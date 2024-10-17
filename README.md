@@ -14,6 +14,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / hdts**
 
+- [**aura-wp-website**](stores/7e0e6cef-4d80-4e34-afe1-7ddf0ddf8331)
 - [**hdts-dev**](stores/6f493eac-8399-4c31-8ba5-f15b9254c95d)
 - [**hdts-dev2**](stores/013a3606-8c06-4ee5-92b5-923d699c0975)
 - [**hdts-prod**](stores/2e3ebf94-a29d-4b55-9c7c-978416d96f23)
