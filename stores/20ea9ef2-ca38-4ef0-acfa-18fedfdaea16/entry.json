@@ -1,0 +1,8 @@
+{
+  "uuid" : "20ea9ef2-ca38-4ef0-acfa-18fedfdaea16",
+  "name" : "Podman",
+  "categoryUuid" : "c3098abb-1659-4f18-b972-5193ede72d18",
+  "configuration" : {
+    "deletable" : true
+  }
+}
