@@ -26,6 +26,9 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**bash**](stores/0fa37b7c-4d4d-4a4a-bd1f-7395e06c1212)
     - [**dash**](stores/ed98a04f-7574-4f58-9347-7bec6d3364dc)
 - [**Toll-ERP-15.21**](stores/3dd2e09a-1796-4951-92cb-97accfbd2b2c)
+  - [**Shell Environments**](stores/5e0d5fd7-701f-3cd7-b223-9ed2506870a3)
+    - [**bash**](stores/396cc959-3dda-41a9-acbe-85d14984746e)
+    - [**root**](stores/0226bf5e-04bc-4b6a-b0f0-e062228d5194)
 
 
 ## Secret encryption
