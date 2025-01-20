@@ -1,0 +1,8 @@
+{
+  "uuid" : "3dd2e09a-1796-4951-92cb-97accfbd2b2c",
+  "name" : "Toll-ERP-15.21",
+  "categoryUuid" : "c3098abb-1659-4f18-b972-5193ede72d18",
+  "configuration" : {
+    "deletable" : true
+  }
+}
