@@ -19,6 +19,7 @@ You can sync with this repository in all XPipe application instances the same wa
   - [**Shell Environments**](stores/bc7521ac-f6cd-3c87-a4fe-f25359b88b06)
     - [**bash**](stores/0b8dd198-a476-49b0-9644-5d3a0fb6f596)
     - [**dash**](stores/cfce011f-f206-4201-bf9d-a756232f14ff)
+- [**FBZ website**](stores/4a8715d1-c66c-466a-96d0-7033fc7fb3e0)
 - [**hdts-dev**](stores/6f493eac-8399-4c31-8ba5-f15b9254c95d)
 - [**hdts-dev2**](stores/013a3606-8c06-4ee5-92b5-923d699c0975)
 - [**hdts-prod**](stores/2e3ebf94-a29d-4b55-9c7c-978416d96f23)
