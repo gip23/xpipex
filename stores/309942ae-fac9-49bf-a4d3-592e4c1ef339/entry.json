@@ -1,0 +1,8 @@
+{
+  "uuid" : "309942ae-fac9-49bf-a4d3-592e4c1ef339",
+  "name" : "dash",
+  "categoryUuid" : "c3098abb-1659-4f18-b972-5193ede72d18",
+  "configuration" : {
+    "deletable" : true
+  }
+}
