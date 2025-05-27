@@ -1,0 +1,6 @@
+{
+  "secret" : {
+    "type" : "vault",
+    "encryptedValue" : "0+LYzRiX2f4P2YDYxOBNkSNpRsu5+Y7I8zWd8VwH2c7E9JA1krIyZyQ-xCUnsrTzakdaymxvjTOr4xv-P8NZQO38jlbB2Wk3VG9MPy6bIgl5S3bWaFzKADNoCyBxLi5HtSumIyEIz2olrRsB8m45+kZlLy3uwkB+a1hFezam6JaiRwzy9YmpR+NvAIzP8j8b9WV34YncMp63XSNmgqo4bNAuMRK-nILL98taacdb+myHPSjEZv+WPSHObVN3TnIVF3nTgZHqNS+6TTELLlxz5XHzuIds07iHrhH6feR1IOkIJA=="
+  }
+}
