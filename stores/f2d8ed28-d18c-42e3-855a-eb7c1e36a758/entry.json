@@ -1,0 +1,8 @@
+{
+  "uuid" : "f2d8ed28-d18c-42e3-855a-eb7c1e36a758",
+  "name" : "Safedown-Digitalocean",
+  "categoryUuid" : "c3098abb-1659-4f18-b972-5193ede72d18",
+  "configuration" : {
+    "deletable" : true
+  }
+}
