@@ -33,6 +33,7 @@ You can sync with this repository in all XPipe application instances the same wa
 - [**Safedown-Digitalocean**](stores/f2d8ed28-d18c-42e3-855a-eb7c1e36a758)
   - [**Shell Environments**](stores/5b1c24c7-1cdf-32bf-b32f-4d177a5f88b9)
     - [**bash**](stores/7e08a472-df1f-46b0-bf99-0115f30ba1d9)
+    - [**dash**](stores/9273b467-3696-44df-a95b-d1f52bc371a0)
 - [**Toll-ERP-15.20**](stores/b327ef3b-7893-4788-bb8a-92f48d1e59ad)
 - [**Toll-ERP-15.21**](stores/3dd2e09a-1796-4951-92cb-97accfbd2b2c)
   - [**Podman**](stores/20ea9ef2-ca38-4ef0-acfa-18fedfdaea16)
